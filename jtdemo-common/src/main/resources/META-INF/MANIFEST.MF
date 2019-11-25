@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Main-Class: com.jt.SpringBootRun
+Class-Path: spring-aop-5.2.0.RELEASE.jar slf4j-api-1.7.28.jar spring-cor
+ e-5.2.0.RELEASE.jar jsqlparser-2.1.jar logback-classic-1.2.3.jar tomcat
+ -embed-core-9.0.27.jar tomcat-embed-el-9.0.27.jar spring-beans-5.2.0.RE
+ LEASE.jar mybatis-plus-boot-starter-3.2.0.jar jackson-datatype-jsr310-2
+ .10.0.jar spring-jcl-5.2.0.RELEASE.jar mybatis-plus-extension-3.2.0.jar
+  lombok-1.18.10.jar log4j-api-2.12.1.jar jackson-module-parameter-names
+ -2.10.0.jar druid-1.1.12.jar springloaded-1.2.8.RELEASE.jar jboss-loggi
+ ng-3.4.1.Final.jar jul-to-slf4j-1.7.28.jar tomcat-annotations-api-9.0.2
+ 7.jar tomcat-embed-jasper-9.0.27.jar spring-expression-5.2.0.RELEASE.ja
+ r HikariCP-3.4.1.jar spring-context-5.2.0.RELEASE.jar spring-boot-start
+ er-jdbc-2.2.0.RELEASE.jar spring-boot-starter-validation-2.2.0.RELEASE.
+ jar log4j-to-slf4j-2.12.1.jar mybatis-plus-3.2.0.jar mybatis-plus-annot
+ ation-3.2.0.jar javax.servlet-api-4.0.1.jar hibernate-validator-6.0.17.
+ Final.jar mybatis-spring-2.0.2.jar jstl-1.2.jar spring-boot-autoconfigu
+ re-2.2.0.RELEASE.jar spring-boot-starter-logging-2.2.0.RELEASE.jar mysq
+ l-connector-java-8.0.18.jar tomcat-embed-websocket-9.0.27.jar jakarta.v
+ alidation-api-2.0.1.jar spring-tx-5.2.0.RELEASE.jar spring-boot-starter
+ -tomcat-2.2.0.RELEASE.jar spring-boot-starter-json-2.2.0.RELEASE.jar sp
+ ring-boot-devtools-2.2.0.RELEASE.jar snakeyaml-1.25.jar logback-core-1.
+ 2.3.jar spring-boot-configuration-processor-2.2.0.RELEASE.jar spring-bo
+ ot-starter-web-2.2.0.RELEASE.jar spring-webmvc-5.2.0.RELEASE.jar mybati
+ s-3.5.2.jar mybatis-plus-core-3.2.0.jar jackson-annotations-2.10.0.jar 
+ jackson-datatype-jdk8-2.10.0.jar jackson-core-2.10.0.jar spring-boot-2.
+ 2.0.RELEASE.jar jackson-databind-2.10.0.jar ecj-3.18.0.jar spring-web-5
+ .2.0.RELEASE.jar spring-boot-starter-2.2.0.RELEASE.jar spring-jdbc-5.2.
+ 0.RELEASE.jar jakarta.annotation-api-1.3.5.jar classmate-1.5.0.jar
+
